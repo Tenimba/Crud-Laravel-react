@@ -1,7 +1,8 @@
 # Crud-Laravel-react
-test technique hello cse
+test technique HELLO CSE 
 
-Bonjour dans ce Crud vous pourrez cree supprimer ou modifier une start,
+
+Bonjour dans ce Crud en react,laravel et tailwindcss vous pourrez cree supprimer ou modifier une start,
 
 
 Pour le lancer veuillez télécharger les 2 branche donc le main et react
